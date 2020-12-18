@@ -8,9 +8,3 @@
 - [Spotify](https://open.spotify.com/user/kallelgn)
 - [Twitch](https://www.twitch.tv/kallelganewk_)
 - [Steam](https://steamcommunity.com/id/KallelGaNewk/)
-
-## Organizations
-
-- [Foxiva](https://github.com/Foxiva)
-- [TheNight](https://github.com/TheNightCorporation)
-- [NowbyProject.org](https://github.com/NowbyProject)
