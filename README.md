@@ -10,3 +10,7 @@
 - [Steam](https://steamcommunity.com/id/yuukifurry/)
 - [Facebook](https://www.facebook.com/yuukifur/)
 - [Reddit](https://www.reddit.com/u/KallelGaNewk)
+- [Instagram](https://www.instagram.com/kallelganewk/)
+- [NameMC](https://pt.namemc.com/profile/KallelGaNewk)
+- [SoundCloud](https://soundcloud.com/kallelganewk)
+- 
