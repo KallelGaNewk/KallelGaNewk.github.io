@@ -14,3 +14,9 @@
 - [NameMC](https://pt.namemc.com/profile/KallelGaNewk)
 - [SoundCloud](https://soundcloud.com/kallelganewk)
 - [osu!](https://osu.ppy.sh/users/19099551)
+
+## Projects
+
+- [MCData](https://github.com/KallelGaNewk/mcdata) [[npm]](https://www.npmjs.com/package/mcdata)
+- [reddit-event](https://github.com/KallelGaNewk/reddit-event) [[npm]](https://www.npmjs.com/package/reddit-event)
+- [osu!rpc](https://github.com/KallelGaNewk/osu-rpc)
