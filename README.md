@@ -1,4 +1,4 @@
-# [KALLEL.tech](https://kallel.tech/)
+# [kallel.tech](https://kallel.tech/)
 
 ## Social
 
