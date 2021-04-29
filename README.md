@@ -1,4 +1,4 @@
-[![github-stats](https://github-readme-stats.vercel.app/api?username=kallelganewk&show_icons=true&theme=synthwave)](https://github.com/KallelGaNewk)
+[![github-stats](https://github-readme-stats.vercel.app/api?username=kallelganewk&show_icons=true&theme=dark)](https://github.com/KallelGaNewk)
 ---
 ## Projects
 
