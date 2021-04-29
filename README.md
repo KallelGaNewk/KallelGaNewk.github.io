@@ -1,5 +1,5 @@
 [![github-stats](https://github-readme-stats.vercel.app/api?username=kallelganewk&show_icons=true&theme=tokyonight)](https://github.com/KallelGaNewk)
-[![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/KallelGaNewk)
+[![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kallelganewk&layout=compact&theme=tokyonight)](https://github.com/KallelGaNewk)
 
 ---
 ## Projects
